@@ -27,5 +27,4 @@ def bonus
   epic_tragedy
 end
 
-bonus(epic_tragedy)
 
